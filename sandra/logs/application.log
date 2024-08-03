@@ -1,0 +1,15 @@
+2024-08-01 23:39:53 INFO  HomeServlet:37 - Processing GET request from 0:0:0:0:0:0:0:1
+2024-08-01 23:40:30 INFO  HomeServlet:64 - loaded postgres driver
+2024-08-01 23:40:30 INFO  HomeServlet:72 - Database connection established
+2024-08-01 23:40:31 INFO  HomeServlet:115 - Student found: ID = 1, Name = paccy bintunimana
+2024-08-01 23:41:47 INFO  HomeServlet:64 - loaded postgres driver
+2024-08-01 23:41:47 INFO  HomeServlet:72 - Database connection established
+2024-08-01 23:41:47 INFO  HomeServlet:115 - Student found: ID = 1, Name = paccy bintunimana
+2024-08-01 23:42:00 INFO  HomeServlet:64 - loaded postgres driver
+2024-08-01 23:42:00 INFO  HomeServlet:72 - Database connection established
+2024-08-01 23:42:00 INFO  HomeServlet:118 - ID doesn't exist: 0
+2024-08-01 23:45:05 WARN  HomeServlet:52 - Invalid ID provided: 
+2024-08-01 23:45:46 INFO  HomeServlet:37 - Processing GET request from 0:0:0:0:0:0:0:1
+2024-08-01 23:46:19 INFO  HomeServlet:64 - loaded postgres driver
+2024-08-01 23:46:19 INFO  HomeServlet:72 - Database connection established
+2024-08-01 23:46:19 INFO  HomeServlet:115 - Student found: ID = 1, Name = paccy bintunimana
